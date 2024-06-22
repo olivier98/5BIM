@@ -22,8 +22,8 @@ Ce projet implémente un système de détection d'ordinateurs et de souris dans 
 
 1. Clonez le dépôt :
     ```bash
-    git clone https://github.com/olivier98/5IBM/
-    cd 5IBM
+    git clone https://github.com/olivier98/5BIM/
+    cd 5BIM
     ```
 
 2. Installez les dépendances :
@@ -31,7 +31,7 @@ Ce projet implémente un système de détection d'ordinateurs et de souris dans 
     pip install -r requirements.txt
     ```
 
-3. Téléchargez les fichiers de configuration et les poids de YOLO :
+3. Téléchargez les fichiers de configuration et les poids de YOLO : `yolov3.weights à télécharger`
     - [yolov3.cfg](https://github.com/pjreddie/darknet/blob/master/cfg/yolov3.cfg)
     - [yolov3.weights](https://pjreddie.com/media/files/yolov3.weights)
     - [coco.names](https://github.com/pjreddie/darknet/blob/master/data/coco.names)
