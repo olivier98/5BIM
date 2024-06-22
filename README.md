@@ -66,7 +66,7 @@ Ce projet implémente un système de détection d'ordinateurs et de souris dans 
 
 ## Auteurs
 
-- Votre Nom - [Votre Profil GitHub](https://github.com/votre-utilisateur)
+- Votre Nom - [olivier98](https://github.com/olivier98/)
 
 ## Licence
 
